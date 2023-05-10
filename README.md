@@ -36,8 +36,7 @@ To use the image bind model with the OpenAI API, follow these steps:
 Set up your OpenAI API credentials by adding your API key to the openai.api_key variable.
 Modify the text_list, image_paths, and audio_paths variables in the main.py file to include your own data.
 Run the main.py script:
-css
-Copy code
+
 python main.py
 The results of the embeddings will be output to the console.
 ----
